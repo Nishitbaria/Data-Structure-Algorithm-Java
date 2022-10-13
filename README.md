@@ -16,7 +16,7 @@
     3) Linked List<br>
     4) Searching Algorithm <br>
     5) Sorting Algorithm <br> 
-    6) Divide and Conquer Algorithm <br>
+    6)           <a href="https://github.com/Nishitbaria/Data-Structure-Algorithm-Java/tree/main/Divied%20and%20Conquer">                Divide and Conquer                    Algorithm                   </a>               <br>
     7) Stack <br>
     8) Queue <br>
     9) Tree Data Structure <br> 
