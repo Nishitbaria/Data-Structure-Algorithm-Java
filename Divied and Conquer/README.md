@@ -1,1 +1,1 @@
-https://github.com/Nishitbaria/Data-Structure-Algorithm-Java/tree/main/Divied%20and%20Conquer
+<a href="  https://www.geeksforgeeks.org/quick-sort/ " >     Quick sort </a>
