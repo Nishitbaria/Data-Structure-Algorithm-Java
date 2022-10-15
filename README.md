@@ -24,7 +24,8 @@
     11) Greedy Mehtodology  <br> 
     12) Recursion  <br>  
     13) Backtracking Algorithm  <br>  
-    14) Dynamic Programming      <br> 
+    14) Dynamic Programming       <br> 
+    16) ArryList <br> 
 </p>
 </body>
   </html>
