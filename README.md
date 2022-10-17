@@ -4,8 +4,8 @@
     </head>
   <body>
     <h2> Road MAP For DSA  <h2>
-<a  href="https://whimsical.com/dsa-in-90-days-EmPkf5utoFGRMnRqJjM6YV"   > MAP:Click here   </a> <br>
-<a href="https://www.geeksforgeeks.org/the-ultimate-beginners-guide-for-dsa/">  DSA NOTES OF GFG   </a>
+<a  href="https://whimsical.com/dsa-in-90-days-EmPkf5utoFGRMnRqJjM6YV"  target=”_blank”  > MAP:Click here   </a> <br>
+<a href="https://www.geeksforgeeks.org/the-ultimate-beginners-guide-for-dsa/"> target=”_blank”  DSA NOTES OF GFG   </a>
 <p> 
  5 steps to learn DSA from scratch <br>
     Learn at least one Programming Language <br>
