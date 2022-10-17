@@ -1,10 +1,10 @@
-- ⚡ Fun fact **PRACTICE MAkE MAn PREFECt **
+- ⚡ Fun fact **PRACTICE MAkEs MAn PREFECt **
 <html>
   <head>
     </head>
   <body>
     <h2> Road MAP For DSA  <h2>
-<a  href="https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD"   > MAP:Click here   </a> <br>
+<a  href="https://whimsical.com/dsa-in-90-days-EmPkf5utoFGRMnRqJjM6YV"   > MAP:Click here   </a> <br>
 <a href="https://www.geeksforgeeks.org/the-ultimate-beginners-guide-for-dsa/">  DSA NOTES OF GFG   </a>
 <p> 
  5 steps to learn DSA from scratch <br>
